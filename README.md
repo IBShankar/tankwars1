@@ -1,6 +1,5 @@
 **TankWars is live and playable! 🎮 Here's the full breakdown:**
 
-✅ What's built
 
 **Two full game modes**:
 
